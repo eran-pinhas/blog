@@ -186,8 +186,8 @@ article {
 .cover img {
   width: 100%;
   display: block;
-  -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
 }
 
 .cover figcaption {
@@ -235,6 +235,10 @@ article .intro-note {
   font-style: italic;
 }
 
+article .outro {
+  margin-top: 40px;
+}
+
 article blockquote {
   margin: 0 0 22px 0;
   padding: 0 0 0 18px;
@@ -277,8 +281,7 @@ article pre code {
 }
 
 .site-footer {
-  margin-top: 64px;
-  padding: 28px 0 40px 0;
+  padding: 0 0 40px 0;
   display: flex;
   flex-direction: column;
   gap: 20px;
