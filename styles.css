@@ -151,6 +151,13 @@ a {
   font-size: 15px;
 }
 
+.in-the-works {
+  margin: 32px 0 0 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--faint);
+}
+
 .post-item .post-thumb {
   width: 88px;
   height: 88px;
