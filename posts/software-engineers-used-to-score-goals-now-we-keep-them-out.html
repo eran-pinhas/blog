@@ -58,8 +58,9 @@
     <footer id="newsletter" class="site-footer">
       <div class="newsletter">
         <span class="newsletter-label">Newsletter</span>
-        <form>
-          <input type="email" required placeholder="you@example.com" aria-label="Email address">
+        <form action="https://buttondown.com/api/emails/embed-subscribe/eran-pinhas" method="post">
+          <input type="email" name="email" required placeholder="you@example.com" aria-label="Email address">
+          <input type="hidden" name="embed" value="1">
           <button type="submit">Subscribe</button>
         </form>
       </div>
