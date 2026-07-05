@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eran Pinhas</title>
+    <link>https://eran-pinhas.github.io/blog/</link>
+    <description>Software Engineer. CTO @ Stealth Company. I write my thoughts about Dev, AI, and unrelated things.</description>
+    <language>en</language>
+    <atom:link href="https://eran-pinhas.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Software Engineers Used to Score Goals. Now We Keep Them Out.</title>
+      <link>https://eran-pinhas.github.io/blog/posts/software-engineers-used-to-score-goals-now-we-keep-them-out.html</link>
+      <guid>https://eran-pinhas.github.io/blog/posts/software-engineers-used-to-score-goals-now-we-keep-them-out.html</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Engineering culture is going through a tectonic shift: we used to be the strikers. We're becoming the goalkeepers.</description>
+    </item>
+  </channel>
+</rss>
