@@ -77,20 +77,14 @@ a {
   align-items: baseline;
   justify-content: space-between;
   gap: 16px;
-  padding: 28px 0;
+  padding: 28px 0 0 0;
 }
 
 .site-header .site-title {
   color: var(--fg);
   text-decoration: none;
   font-weight: 600;
-  font-size: 26px;
-}
-
-.site-header nav {
-  display: flex;
-  gap: 24px;
-  font-size: 17px;
+  font-size: 36px;
 }
 
 /* About (index) */
@@ -186,8 +180,8 @@ article {
 .cover img {
   width: 100%;
   display: block;
-  -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+  aspect-ratio: 3 / 1;
+  object-fit: cover;
 }
 
 .cover figcaption {
