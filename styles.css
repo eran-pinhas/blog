@@ -120,7 +120,7 @@ a {
   display: flex;
   gap: 20px;
   align-items: flex-start;
-  padding: 20px 0;
+  padding: 14px 0;
 }
 
 .post-item .post-text {
