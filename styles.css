@@ -110,6 +110,12 @@ a {
 
 /* Post list (index) */
 
+.posts-label {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 600;
+}
+
 .post-item {
   display: flex;
   gap: 20px;
@@ -180,7 +186,7 @@ article {
 .cover img {
   width: 100%;
   display: block;
-  aspect-ratio: 3 / 1;
+  aspect-ratio: 2 / 1;
   object-fit: cover;
 }
 
