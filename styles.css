@@ -111,7 +111,7 @@ a {
 /* Post list (index) */
 
 .posts-label {
-  margin: 0;
+  margin: 20px 0 0;
   font-size: 19px;
   font-weight: 600;
 }
@@ -152,7 +152,7 @@ a {
 }
 
 .in-the-works {
-  margin: 32px 0 0 0;
+  margin: 0;
   font-size: 18px;
   font-weight: 600;
   color: var(--faint);
